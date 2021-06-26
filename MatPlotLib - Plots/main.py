@@ -14,5 +14,5 @@ y1 = [1, 10,7,4,10]
 plt.plot(x,y,label = "Plots 1")
 plt.plot(x1,y1,label = "Plots 2")
 
-plt.legend()
-plt.show()
+plt.legend() #Criando legendas
+plt.show() #Mostrar Grafico
